@@ -3,17 +3,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>crushee</id>
-    <version>2.4.5</version>
-    <packageSourceUrl>https://github.com/brogers5/chocolatey-package-crushee/tree/v2.4.5</packageSourceUrl>
+    <version>2.4.6</version>
+    <packageSourceUrl>https://github.com/brogers5/chocolatey-package-crushee/tree/v2.4.6</packageSourceUrl>
     <owners>sublym0nal</owners>
     <title>Crushee</title>
     <authors>Xander Frangos</authors>
     <projectUrl>https://crushee.app/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/brogers5/chocolatey-package-crushee@0003137e29c562ab3ca618afd3ef4aee83840032/crushee.png</iconUrl>
-    <copyright>Copyright © 2022 Xander Frangos</copyright>
-    <licenseUrl>https://github.com/xanderfrangos/crushee/blob/v2.4.5/LICENSE</licenseUrl>
+    <copyright>Copyright © 2023 Xander Frangos</copyright>
+    <licenseUrl>https://github.com/xanderfrangos/crushee/blob/v2.4.6/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/xanderfrangos/crushee/tree/v2.4.5</projectSourceUrl>
+    <projectSourceUrl>https://github.com/xanderfrangos/crushee/tree/v2.4.6</projectSourceUrl>
     <bugTrackerUrl>https://github.com/xanderfrangos/crushee/issues</bugTrackerUrl>
     <tags>crushee jpeg jpg png gif svg webp avif heic image conversion resize resizing crop cropping compress compression batch optimization quality chroma subsampling chroma-subsampling electron nodejs 64-bit cross-platform foss</tags>
     <summary>Precisely compress, resize, and convert images.</summary>
@@ -42,9 +42,9 @@ Crushee is an image compression tool, powered by Electron and Node.js. You can c
 * Advanced format-specific options, such as Chroma Subsampling Level and Color Count
 * Light/Dark Mode app theme
 ]]></description>
-    <releaseNotes>https://github.com/xanderfrangos/crushee/releases/tag/v2.4.5</releaseNotes>
+    <releaseNotes>https://github.com/xanderfrangos/crushee/releases/tag/v2.4.6</releaseNotes>
     <dependencies>
-      <dependency id="crushee.install" version="[2.4.5]" />
+      <dependency id="crushee.install" version="[2.4.6]" />
     </dependencies>
   </metadata>
   <files />
